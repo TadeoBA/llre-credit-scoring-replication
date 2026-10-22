@@ -1,4 +1,4 @@
 regla,umbral,n_pred_pos,precision,recall,F1
-"(a) umbral 0,5 (artículo)",0.5,8137,0.212,0.894,0.343
-(b) probabilidades corregidas por prevalencia,0.5,590,0.968,0.295,0.452
-(c) mejor umbral en prueba (cota superior),0.83,1749,0.682,0.617,0.648
+"(a) umbral 0,5 (artículo)",0.5,8460,0.205,0.897,0.334
+(b) probabilidades corregidas por prevalencia,0.5,590,0.964,0.294,0.451
+(c) mejor umbral en prueba (cota superior),0.83,1766,0.68,0.62,0.649
