@@ -1,7 +1,7 @@
 # Actividad Final — Machine Learning II
 ## Recreación de un estudio científico con datos simulados
 
-**Estudiante:** Tadeo Bayona Raque · Maestría en Analítica Aplicada
+**Estudiante:** Omar Tadeo Bayona Araque · Maestría en Analítica Aplicada
 **Artículo base:** Wang H, Xu Q, Zhou L (2015). *Large Unbalanced Credit Scoring Using Lasso-Logistic Regression Ensemble.* PLoS ONE 10(2): e0117844. DOI: [10.1371/journal.pone.0117844](https://doi.org/10.1371/journal.pone.0117844) (acceso abierto)
 
 ---
