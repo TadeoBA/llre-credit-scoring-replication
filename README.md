@@ -203,7 +203,7 @@ Este repositorio está pensado para servir más allá de la clase:
 ## Estructura del repositorio
 
 ```
-Final_Project/
+llre-credit-scoring-replication/
 ├── README.md                          # este archivo
 ├── requirements.txt
 ├── LICENSE                            # MIT
