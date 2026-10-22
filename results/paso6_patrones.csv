@@ -1,0 +1,8 @@
+patrón,artículo,simulado,artículo cumple,simulado cumple,se reproduce
+LLR mejora al pasar de variables originales a derivadas (diferencia de AUC),0.3669,0.20099985452946179,True,True,True
+RF casi no cambia entre conjuntos de variables (|diferencia de AUC|),0.00990000000000002,0.0008271712384821939,True,True,True
+LLRE supera a LLR con variables originales (diferencia de AUC),0.18979999999999997,0.18401457120717124,True,True,True
+CART tiene el menor AUC con variables derivadas (AUC de CART menos el mejor otro),-0.09650000000000003,-0.040117005190828614,True,True,True
+CART no predice la clase minoritaria (F-measure de CART),0.0,0.6531173385279515,True,False,False
+LLRE tiene el mayor F-measure (F-measure de LLRE menos el mejor otro),0.10892666666666667,-0.3204728442657176,True,False,False
+LLRE tiene el mayor AUC con variables derivadas (AUC de LLRE menos el mejor otro),0.0010000000000000009,-0.016592569703337445,True,False,False

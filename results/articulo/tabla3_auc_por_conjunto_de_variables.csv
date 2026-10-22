@@ -1,0 +1,5 @@
+clasificador,AUC_originales,AUC_derivadas
+LLRE,0.6796,0.8597
+RF,0.8488,0.8587
+LLR,0.4898,0.8567
+CART,0.7702,0.7632

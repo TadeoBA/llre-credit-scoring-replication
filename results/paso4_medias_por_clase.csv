@@ -1,0 +1,11 @@
+,clase 0 (no impago),clase 1 (impago),razón 1/0
+RevolvingUtilizationOfUnsecuredLines,0.226,0.322,1.42
+age,52.425,50.557,0.96
+NumberOfTime30-59DaysPastDueNotWorse,0.318,1.227,3.86
+DebtRatio,0.904,1.278,1.41
+MonthlyIncome,5330.459,4083.779,0.77
+NumberOfOpenCreditLinesAndLoans,8.488,7.351,0.87
+NumberOfTimes90DaysLate,0.22,0.797,3.62
+NumberRealEstateLoansOrLines,0.999,0.78,0.78
+NumberOfTime60-89DaysPastDueNotWorse,0.21,0.608,2.9
+NumberOfDependents,0.765,0.752,0.98

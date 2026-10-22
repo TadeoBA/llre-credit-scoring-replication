@@ -1,0 +1,8 @@
+chequeo,reportado,simulado,ok
+N total,150000.0,150000.0,True
+Clase 0,139974.0,139974.0,True
+Clase 1,10026.0,10026.0,True
+# predictoras,10.0,10.0,True
+age min,0.0,0.0,True
+age max,109.0,109.0,True
+age media,52.3,52.3,True
